@@ -1,0 +1,1089 @@
+abyssin_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+arkanian_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+bith_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+bothan_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+cathar_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+chagrian_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+chalactan_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+chiss_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+dathomiri_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+devaronian_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+droid_01 = {
+	fallback = ai_01
+	ship_color = no
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 50.0
+	}
+}
+dug_01 = {
+	fallback = reptilian_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+duros_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+echani_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+ewok_01 = {
+	fallback = mammalian_01
+    ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+		intensity_near = 0.1
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+geonosian_01 = {
+	fallback = arthropoid_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 0.6 -0.2 0.1 }
+		cam_light_2_dir = { -0.4 0.0 0.0 }
+		cam_light_3_dir = { 0.4 -1.0 -0.1 }
+		intensity_near = 1.0
+		intensity_far = 2.0
+		near_value = 100
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 100.1
+	}
+}
+gree_01 = {
+	fallback = molluscoid_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 0.4 0.0 0.0 }
+		cam_light_2_dir = { -0.5 0.0 0.0 }
+		cam_light_3_dir = { 0.4 -1.0 0.0 }
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.0
+		ambient_far = 30.0
+	}
+}
+gungan_01 = {
+	fallback = reptilian_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+human_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+hutt_01 = {
+	fallback = fungoid_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 0.4 0.0 0.0 }
+		cam_light_2_dir = { -0.5 0.0 0.0 }
+		cam_light_3_dir = { 0.4 -1.0 0.0 }
+		intensity_near = 1.0
+		intensity_far = 20.0
+		near_value = 100
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 50.0
+	}
+}
+imperial_01 = {
+	ship_color = no
+    fallback = sith_emp_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+ithorian_01 = {
+	ship_color = no
+    fallback = mammalian_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+jawa_01 = {
+	fallback = mammalian_01
+    ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+		intensity_near = 0.1
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+kaminoan_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+kel_dor_01 = {
+	fallback = reptilian_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+khaleesh_01 = {
+	fallback = reptilian_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+killik_01 = {
+	fallback = arthropoid_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 0.6 -0.2 0.1 }
+		cam_light_2_dir = { -0.4 0.0 0.0 }
+		cam_light_3_dir = { 0.4 -1.0 -0.1 }
+		intensity_near = 1.0
+		intensity_far = 2.0
+		near_value = 100
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 100.1
+	}
+}
+korunnai_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+mandalorian_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+miraluka_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+mirialan_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+mon_calamari_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+nautolan_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+neimoidian_01 = {
+	fallback = molluscoid_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 0.4 0.0 0.0 }
+		cam_light_2_dir = { -0.5 0.0 0.0 }
+		cam_light_3_dir = { 0.4 -1.0 0.0 }
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.0
+		ambient_far = 30.0
+	}
+}
+pantoran_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+quarren_01 = {
+	fallback = molluscoid_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 0.4 0.0 0.0 }
+		cam_light_2_dir = { -0.5 0.0 0.0 }
+		cam_light_3_dir = { 0.4 -1.0 0.0 }
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.0
+		ambient_far = 30.0
+	}
+}
+rakata_01 = {
+	fallback = reptilian_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+rattataki_01 = {
+	ship_color = no
+    fallback = sith_emp_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+rodian_01 = {
+	fallback = reptilian_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+selkath_01 = {
+	fallback = molluscoid_01
+	ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 0.4 0.0 0.0 }
+		cam_light_2_dir = { -0.5 0.0 0.0 }
+		cam_light_3_dir = { 0.4 -1.0 0.0 }
+		intensity_near = 1.0
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.0
+		ambient_far = 30.0
+	}
+}
+sith_pureblood_01 = {
+	ship_color = no
+    fallback = sith_emp_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+skakoan_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+sullustan_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+talz_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+thyrsian_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+togruta_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+toydarian_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+trandoshan_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+tusken_01 = {
+	fallback = mammalian_01
+    ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+		intensity_near = 0.1
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+twilek_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+umbaran_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+voss_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+weequay_01 = {
+	fallback = mammalian_01
+    ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+		intensity_near = 0.1
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+wookie_01 = {
+	fallback = mammalian_01
+    ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+		intensity_near = 0.1
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
+zabrak_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+zeltron_01 = {
+    ship_color = no
+    fallback = old_rep_01
+    ship_lighting = {
+        cam_light_1_dir = { 1.0 0.0 0.5 }
+        cam_light_2_dir = { -0.5 0.2 0.0 }
+        cam_light_3_dir = { 0.5 -1.0 0.0 }
+        intensity_near = 1.0
+        intensity_far = 1.0
+        near_value = 700
+        far_value = 4000
+        rim_start_near = 0.5
+        rim_stop_near = 0.99
+        rim_start_far = 0.3
+        rim_stop_far = 0.99
+        ambient_near = 0.1
+        ambient_far = 50.0
+    }
+}
+zygerrian_01 = {
+	fallback = mammalian_01
+    ship_color = yes
+	ship_lighting = {
+		cam_light_1_dir = { 1.0 0.0 0.5 }
+		cam_light_2_dir = { -0.5 0.2 0.0 }
+		cam_light_3_dir = { 0.5 -1.0 0.0 }
+		intensity_near = 0.1
+		intensity_far = 1.0
+		near_value = 700
+		far_value = 4000
+		rim_start_near = 0.5
+		rim_stop_near = 0.99
+		rim_start_far = 0.3
+		rim_stop_far = 0.99
+		ambient_near = 0.1
+		ambient_far = 20.0
+	}
+}
