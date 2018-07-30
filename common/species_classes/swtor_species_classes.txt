@@ -1,0 +1,463 @@
+ABYSSIN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"mol3"}
+	graphical_culture = abyssin_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+ARKANIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"arkanian" "arkanianos"}
+	graphical_culture = arkanian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+BITH = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"art6"}
+	graphical_culture = bith_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+BOTHAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"bothan"}
+	graphical_culture = bothan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+CATHAR = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"mam14"}
+	graphical_culture = cathar_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+CHAGRIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"chagrian"}
+	graphical_culture = chagrian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+CHALACTAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"chalactan"}
+	graphical_culture = chalactan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+CHISS = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"chiss"}
+	graphical_culture = chiss_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+DATHOMIRI = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"zabrak"}
+	graphical_culture = dathomiri_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+DEVARONIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"rep10"}
+	graphical_culture = devaronian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+DROID = {
+	archetype = ROBOT
+	playable = { always = no }
+	randomized = no
+	robotic = yes
+	use_climate_preference = no
+	leader_age_min = 2
+	leader_age_max = 10
+	portraits = {
+		"protocol_droid1"
+		"farming_droid1"
+	}
+	graphical_culture = droid_01
+	move_pop_sound_effect = "robot_pops_move"
+}
+DUG = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"dug"}
+	graphical_culture = dug_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+DUROS = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"duros"}
+	graphical_culture = duros_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+ECHANI = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"echani"}
+	graphical_culture = echani_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+EWOK = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"ewok"}
+	graphical_culture = ewok_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+GEONOSIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"art1"}
+	graphical_culture = geonosian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+GREE = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"mol11"}
+	graphical_culture = gree_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+GUNGAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"gungan"}
+	graphical_culture = gungan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+HUMAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	#randomized = yes
+	portraits = {"human"}
+	graphical_culture = human_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+HUTT = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	#randomized = yes
+	portraits = {"hutt"}
+	graphical_culture = hutt_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+IMPERIAL = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	#randomized = yes
+	portraits = {"imperial"}
+	graphical_culture = imperial_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+ITHORIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	#randomized = yes
+	portraits = {"fun13"}
+	graphical_culture = ithorian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+JAWA = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"jawa"}
+	graphical_culture = jawa_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+KAMINOAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"rep1"}
+	graphical_culture = kaminoan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+KEL_DOR = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"kel_dor"}
+	graphical_culture = kel_dor_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+KHALEESH = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"rep5"}
+	graphical_culture = khaleesh_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+KILLIK = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"art3"}
+	graphical_culture = killik_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+KORUNNAI = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"korunnai"}
+	graphical_culture = korunnai_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+MANDALORIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"mando"}
+	graphical_culture = mandalorian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+MIRALUKA = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"human"}
+	graphical_culture = miraluka_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+MIRIALAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"mirialan"}
+	graphical_culture = mirialan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+MON_CALAMARI = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"mon_calamari"}
+	graphical_culture = mon_calamari_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+NAUTOLAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"humanoid_04"}
+	graphical_culture = nautolan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+NEIMOIDIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"neimoidian"}
+	graphical_culture = neimoidian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+PANTORAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"pantoran"}
+	graphical_culture = pantoran_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+QUARREN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"mol15"}
+	graphical_culture = quarren_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+RAKATA = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"rep3"}
+	graphical_culture = rakata_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+RATTATAKI = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"thyrsian"}
+	graphical_culture = rattataki_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+RODIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"rodian"}
+	graphical_culture = rodian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+SELKATH = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"rep6"}
+	graphical_culture = selkath_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+SITH = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"sith"}
+	graphical_culture = sith_pureblood_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+SKAKOAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"skakoan"}
+	graphical_culture = skakoan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+SULLUSTAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"sullustan"}
+	graphical_culture = sullustan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+TALZ = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"avi12"}
+	graphical_culture = talz_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+THYRSIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"thyrsian"}
+	graphical_culture = thyrsian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+TOGRUTA = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"togruta"}
+	graphical_culture = togruta_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+TOYDARIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"avi17"}
+	graphical_culture = toydarian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+TRANDOSHAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"rep9"}
+	graphical_culture = trandoshan_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+TUSKEN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"rep9"}
+	graphical_culture = tusken_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+TWILEK = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"twilek"}
+	graphical_culture = twilek_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+UMBARAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"arkanianos"}
+	graphical_culture = umbaran_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+VOSS = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"humanoid_03"}
+	graphical_culture = voss_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+WEEQUAY = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"humanoid_02"}
+	graphical_culture = weequay_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+WOOKIEE = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"wookiee"}
+	graphical_culture = wookie_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+ZABRAK = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"zabrak"}
+	graphical_culture = zabrak_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+ZELTRON = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"zeltron"}
+	graphical_culture = zeltron_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+ZYGERRIAN = {
+	archetype = BIOLOGICAL
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+	randomized = yes
+	portraits = {"mam3"}
+	graphical_culture = zygerrian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}

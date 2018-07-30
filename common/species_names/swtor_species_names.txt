@@ -1,0 +1,516 @@
+# Generated species derive their names from here
+
+### Species
+ABYSSIN = {
+	abyssin = {
+		name = Abyssin
+		plural = Abyssin
+		home_planet = Byss
+		home_system = Byss
+		name_list = "Humanoid"
+	}
+}
+ARKANIAN = {
+	arkanian = {
+		name = "Arkanian"	
+		plural = "Arkanian"
+		home_planet = "Arkania"
+		home_system = "Perave"
+		name_list = "Near_Human"
+	}
+}
+BITH = {
+	bothan = {
+		name = "Bith"
+		plural = "Bith"
+		home_planet = "Bith"
+		home_system = "Clak'dor"
+		name_list = "Near_Human"
+	}	
+}
+BOTHAN = {
+	bothan = {
+		name = "Bothan"
+		plural = "Bothans"
+		home_planet = "Bothawui"
+		home_system = "Both"
+		name_list = "Near_Human"
+	}	
+}
+CATHAR = {
+	cathar = {
+		name = "Cathar"
+		plural = "Cathar"
+		home_planet = "Cathar"
+		home_system = "Cathar"
+		name_list = "Near_Human"
+	}	
+}
+CHAGRIAN = {
+	chagrian = {
+		name = "Chagrian"	
+		plural = "Chagrians"
+		home_planet = "Champala"
+		home_system = "Chagri"
+		name_list = "Near_Human"
+	}
+}
+CHALACTAN = {
+	chalactan = {
+		name = "Chalactan"	
+		plural = "Chalactans"
+		home_planet = "Chalacta"
+		home_system = "Chalacta"
+		name_list = "Human"
+	}
+}
+CHISS = {
+	chiss = {
+		name = "Chiss"	
+		plural = "Chiss"
+		home_planet = "Csilla"
+		home_system = "Csilla"
+		name_list = "Chiss"
+	}
+}
+DATHOMIRI = {
+	dathomiri = {
+		name = "Dathomirian"
+		plural = "Dathomiri"
+		home_planet = "Dathomir"
+		home_system = "Dathomir"
+		name_list = "Near_Human"
+	}	
+}
+DEVARONIAN = {
+	devaronian = {
+		name = "Devaronian"
+		plural = "Devaronians"
+		home_planet = "Devaron"
+		home_system = "Devaron"
+		name_list = "Near_Human"
+	}
+}
+DROID = {
+	droid = {
+		name = Droid
+		plural = Droids
+		home_planet = "Serenno"
+		home_system = "Serenno"
+		name_list = "AI"
+	}
+}
+DUG = {
+	dug = {
+		name = "Dug"
+		plural = "Dugs"
+		home_planet = "Malastare"
+		home_system = "Malastare"
+		name_list = "Humanoid_4"
+	}	
+}
+DUROS = {
+	duros = {
+		name = "Duros"
+		plural = "Duros"
+		home_planet = "Duro"
+		home_system = "Duro"
+		name_list = "Near_Human"
+	}	
+}
+ECHANI = {
+	echani = {
+		name = "Echani"
+		plural = "Echani"
+		home_planet = "Eshan"
+		home_system = "Eshan"
+		name_list = "Human"
+	}
+}
+EWOK = {
+	ewok = {
+		name = "Ewok"
+		plural = "Ewoks"
+		home_planet = "Forest Moon of Endor"
+		home_system = "Endor"
+		name_list = "Ewoks"
+	}
+}
+GEONOSIAN = {
+	geonosian = {
+		name = "Geonosian"
+		plural = "Geonosians"
+		home_planet = "Geonosis"
+		home_system = "Geonosis"
+		name_list = "Geonosian"
+	}	
+}
+GREE = {
+	gree = {
+		name = "Gree"
+		plural = "Gree"
+		home_planet = "Gree"
+		home_system = "Gree"
+		name_list = "Gree"
+	}	
+}
+GUNGAN = {
+	gungan = {
+		name = "Gungan"
+		plural = "Gungans"
+		home_planet = "Naboo"
+		home_system = "Naboo"
+		name_list = "Gungan"
+	}	
+}
+HUMAN = {
+	human = {
+		name = "Human"
+		plural = "Human"
+		home_planet = "Coruscant Prime"
+		home_system = "Coruscant"
+		name_list = "Human"
+	}
+}
+HUTT = {
+	hutt = {
+		name = "Hutt"	
+		plural = "Hutts"
+		home_planet = "Nal Hutta"
+		home_system = "Y'Toub"
+		name_list = "Hutt"
+	}
+}	
+IMPERIAL = {
+	imperial = {
+		name = "Sith"	
+		plural = "Sith"
+		home_planet = "Dromund Kaas"
+		home_system = "Dromund"
+		name_list = "Imperial"
+	}
+}
+ITHORIAN = {
+	ithorian = {
+		name = "Ithorian"
+		plural = "Ithorians"
+		home_planet = "Ithor"
+		home_system = "Ottega"
+		name_list = "Humanoid"
+	}
+}
+JAWA = {
+	jawa = {
+		name = "Jawa"
+		plural = "Jawas"
+		home_planet = "Tatooine"
+		home_system = "Tatoo"
+		name_list = "Humanoid_2"
+	}	
+}
+KAMINOAN = {
+	kaminoan = {
+		name = "Kaminoan"
+		plural = "Kaminoans"
+		home_planet = "Kamino"
+		home_system = "Kamino"
+		name_list = "Humanoid_3"
+	}
+}
+KEL_DOR = {
+	kel_dor = {
+		name = "Kel Dor"
+		plural = "Kel Dors"
+		home_planet = "Dorin"
+		home_system = "Dorin"
+		name_list = "Near_Human"
+	}	
+}
+KHALEESH = {
+	kaleesh = {
+		name = "Kaleesh"
+		plural = "Kaleesh"
+		home_planet = "Kalee"
+		home_system = "Kalee"
+		name_list = "REP2"
+	}
+}
+KILLIK = {
+	killik = {
+		name = "Killik"	
+		plural = "Killiks"
+		home_planet = "Yoggoy"
+		home_system = "Yoggoy"
+		name_list = "Killik"
+	}
+}
+KORUNNAI = {
+	korunnai = {
+		name = "Korun"	
+		plural = "Korunnai"
+		home_planet = "Haruun Kal"
+		home_system = "Al'Har"
+		name_list = "Human"
+	}
+}
+MANDALORIAN = {
+	mando = {
+		name = "Mandalorian"
+		plural = "Mandalorians"
+		home_planet = "Mandalore"
+		home_system = "Mandalore"
+		name_list = "Mandalorian"
+	}
+}
+MIRALUKA = {
+	miraluka = {
+		name = "Miraluka"
+		plural = "Miralukas"
+		home_planet = "Alpheridies"
+		home_system = "Abron"
+		name_list = "Near_Human"
+	}
+}
+MIRIALAN = {
+	mirialan = {
+		name = "Mirialan"
+		plural = "Mirialans"
+		home_planet = "Mirial"
+		home_system = "Mirial"
+		name_list = "Near_Human"
+	}
+}
+MON_CALAMARI = {
+	mon_calamari = {
+		name = "Mon Calamari"
+		plural = "Mon Calamarians"
+		home_planet = "Dac"
+		home_system = "Calamari"
+		name_list = "Near_Human"
+	}	
+}
+NAUTOLAN = {
+	nautolan = {
+		name = "Nautolan"
+		plural = "Nautolan"
+		home_planet = "Glee Anselm"
+		home_system = "Glee Anselm"
+		name_list = "Near_Human"
+	}	
+}
+NEIMOIDIAN = {
+	neimoidian = {
+		name = "Neimoidian"
+		plural = "Neimoidians"
+		home_planet = "Neimoidia"
+		home_system = "Neimoidia"
+		name_list = "Near_Human"
+	}	
+}
+PANTORAN = {
+	pantoran = {
+		name = "Pantoran"
+		plural = "Pantorans"
+		home_planet = "Pantora"
+		home_system = "Pantora"
+		name_list = "Humanoid_1"
+	}	
+}
+RAKATA = {
+	rakata = {
+		name = "Rakata"
+		plural = "Rakata"
+		home_planet = "Lehon (Rakata Prime)"
+		home_system = "Lehon"
+		name_list = "Rakata"
+	}	
+}
+RATTATAKI = {
+	rattataki = {
+		name = "Rattataki"	
+		plural = "Rattataki"
+		home_planet = "Rattatak"
+		home_system = "Rattatak"
+		name_list = "Near_Human"
+	}
+}
+RODIAN = {
+	rodian = {
+		name = "Rodian"
+		plural = "Rodians"
+		home_planet = "Rodia"
+		home_system = "Tyrius"
+		name_list = "Near_Human"
+	}	
+}
+QUARREN = {
+	quarren = {
+		name = "Quarren"
+		plural = "Quarren"
+		home_planet = "Dac"
+		home_system = "Calamari"
+		name_list = "Quarren"
+	}	
+}
+SELKATH = {
+	selkath = {
+		name = "Selkath"
+		plural = "Selkath"
+		home_planet = "Manaan"
+		home_system = "Pyrshak"
+		name_list = "Humanoid_3"
+	}
+}
+SITH = {
+	sith = {
+		name = "Sith Pureblood"
+		plural = "Sith Purebloods"
+		home_planet = "Korriban"
+		home_system = "Horuset"
+		name_list = "Sith"
+	}
+}
+SKAKOAN = {
+	skakoan = {
+		name = "Skakoan"
+		plural = "Skakoans"
+		home_planet = "Skako"
+		home_system = "Skako"
+		name_list = "Near_Human"
+	}	
+}
+SULLUSTAN = {
+	sullustan = {
+		name = "Sullustan"
+		plural = "Sullustans"
+		home_planet = "Sullust"
+		home_system = "Sullust"
+		name_list = "Near_Human"
+	}	
+}
+TALZ = {
+	thyrsian = {
+		name = "Talz"	
+		plural = "Talz"
+		home_planet = "Alzoc III"
+		home_system = "Alzoc"
+		name_list = "AVI2"
+	}
+}
+THYRSIAN = {
+	thyrsian = {
+		name = "Thyrsian"	
+		plural = "Thyrsians"
+		home_planet = "Thyrsus"
+		home_system = "Thyrsus"
+		name_list = "Human"
+	}
+}
+TOGRUTA = {
+	togruta = {
+		name = "Togruta"
+		plural = "Togruta"
+		home_planet = "Shili"
+		home_system = "Shili"
+		name_list = "Togruta"
+	}
+}
+TOYDARIAN = {
+	toydaria = {
+		name = "Toydarian"
+		plural = "Toydarians"
+		home_planet = "Toydaria"
+		home_system = "Toydaria"
+		name_list = "Humanoid"
+	}
+}
+TRANDOSHAN = {
+	trandoshan = {
+		name = "Trandoshan"
+		plural = "Trandoshans"
+		home_planet = "Trandosha"
+		home_system = "Kashyyyk"
+		name_list = "REP2"
+	}
+}
+TUSKEN = {
+	tusken = {
+		name = "Tusken"
+		plural = "Tuskens"
+		home_planet = "Tatooine"
+		home_system = "Tatoo"
+		name_list = "Ghorfas"
+	}
+}
+TWILEK = {
+	twilek = {
+		name = "Twi'lek"
+		plural = "Twi'leks"
+		home_planet = "Ryloth"
+		home_system = "Ryloth"
+		name_list = "Twilek"
+	}
+}
+UMBARAN = {
+	umbara = {
+		name = "Umbaran"
+		plural = "Umbarans"
+		home_planet = "Umbara"
+		home_system = "Umbara"
+		name_list = "Near_Human"
+	}
+}
+VOSS = {
+	voss = {
+		name = "Voss"
+		plural = "Voss"
+		home_planet = "Voss"
+		home_system = "Voss"
+		name_list = "Near_Human"
+	}
+}
+WEEQUAY = {
+	weequay = {
+		name = "Weequay"
+		plural = "Weequay"
+		home_planet = "Sriluur"
+		home_system = "Sriluur"
+		name_list = "Humanoid"
+	}
+}
+WOOKIEE = {
+	wookiee = {
+		name = "Wookiee"
+		plural = "Wookiees"
+		home_planet = "Kashyyyk"
+		home_system = "Kashyyyk"
+		name_list = "Wookiee"
+	}	
+}
+ZABRAK = {
+	zabrak = {
+		name = "Zabrak"
+		plural = "Zabraks"
+		home_planet = "Iridonia"
+		home_system = "Iridonia"
+		name_list = "Near_Human"
+	}
+}
+ZELTRON = {
+	zeltron = {
+		name = "Zeltron"	
+		plural = "Zeltrons"
+		home_planet = "Zeltros"
+		home_system = "Zel"
+		name_list = "Human"
+	}	
+}
+ZYGERRIAN = {
+	zygerrian = {
+		name = "Zygerrian"	
+		plural = "Zygerrians"
+		home_planet = "Zygerria"
+		home_system = "Zygerria"
+		name_list = "Near_Human"
+	}	
+}
